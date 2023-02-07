@@ -1,0 +1,5 @@
+.idea
+lib/*
+!lib/README.txt
+out/*
+!out/README.txt
